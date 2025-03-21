@@ -1,0 +1,12 @@
+{
+    "game": {
+        "duration_seconds": 30,
+        "pose_hold_time_seconds": 1
+    },
+    "pose_matcher": {
+        "similarity_threshold": 0.5
+    },
+    "pose_detector": {
+        "confidence_threshold": 0.5
+    }
+}
